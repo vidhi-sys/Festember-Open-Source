@@ -18,5 +18,6 @@ Why This Matters
 ---     
 *Inspired by #DrGViswanathan’s vision of consistent growth and community learning.*  
 *Supported by VIT Bhopal’s culture of innovation and excellence.*
-https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=777&center=true&vCenter=true&width=500&lines=The+stage+is+set.;The+community+is+watching.;Your+keyboard+is+waiting
-     
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=777&center=true&vCenter=true&width=500&lines=The+stage+is+set;The+community+is+watching.;Your+keyboard+is+waiting" alt="Typing SVG" />
+</p>
